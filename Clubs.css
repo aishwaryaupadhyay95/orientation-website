@@ -1,0 +1,42 @@
+.u-section-1 {background-image: linear-gradient(white, #e0e5eb)}
+.u-section-1 .u-sheet-1 {min-height: 1676px}
+.u-section-1 .u-image-1 {width: 125px; height: 117px; margin: 0 auto 0 53px}
+.u-section-1 .u-image-2 {width: 200px; height: 117px; margin: -105px auto 0 317px}
+.u-section-1 .u-image-3 {width: 200px; height: 117px; margin: -117px 316px 0 auto}
+.u-section-1 .u-image-4 {width: 200px; height: 117px; margin: -117px 58px 0 auto}
+.u-section-1 .u-image-5 {width: 200px; height: 117px; margin: 1px auto 0 16px}
+.u-section-1 .u-image-6 {width: 85px; height: 117px; margin: -117px auto 0 392px}
+.u-section-1 .u-image-7 {width: 200px; height: 117px; margin: -105px 308px 0 auto}
+.u-section-1 .u-image-8 {width: 200px; height: 117px; margin: -117px 58px 0 auto}
+.u-section-1 .u-image-9 {width: 109px; height: 117px; margin: 23px auto 0 61px}
+.u-section-1 .u-image-10 {width: 117px; height: 117px; margin: -103px auto 0 376px}
+.u-section-1 .u-image-11 {width: 200px; height: 117px; margin: -149px 308px 0 auto}
+.u-section-1 .u-image-12 {width: 153px; height: 117px; margin: -99px 88px 0 auto}
+.u-section-1 .u-image-13 {width: 200px; height: 117px; margin: 61px auto 0 24px}
+.u-section-1 .u-image-14 {width: 148px; height: 117px; margin: -117px auto 0 360px}
+.u-section-1 .u-image-15 {width: 200px; height: 117px; margin: -129px 308px 0 auto}
+.u-section-1 .u-image-16 {width: 200px; height: 117px; margin: -117px 47px 0 auto}
+.u-section-1 .u-image-17 {width: 200px; height: 117px; margin: 71px auto 0 24px}
+.u-section-1 .u-image-18 {width: 127px; height: 117px; margin: -117px auto 0 360px}
+.u-section-1 .u-image-19 {width: 200px; height: 117px; margin: -146px 308px 0 auto}
+.u-section-1 .u-image-20 {width: 117px; height: 117px; margin: 82px auto 0 53px}
+.u-section-1 .u-image-21 {width: 129px; height: 117px; margin: -117px auto 0 353px}
+.u-section-1 .u-image-22 {width: 200px; height: 117px; margin: -125px 308px 0 auto}
+.u-section-1 .u-image-23 {width: 200px; height: 117px; margin: 50px 299px 0 auto}
+.u-section-1 .u-image-24 {width: 200px; height: 117px; margin: -117px auto 0 24px}
+.u-section-1 .u-image-25 {width: 200px; height: 117px; margin: -117px auto 60px 334px} 
+
+@media (max-width: 575px){ .u-section-1 .u-image-2 {margin-left: 140px}
+.u-section-1 .u-image-3 {margin-right: 140px}
+.u-section-1 .u-image-6 {margin-left: 255px}
+.u-section-1 .u-image-7 {margin-right: 140px}
+.u-section-1 .u-image-10 {margin-left: 223px}
+.u-section-1 .u-image-11 {margin-right: 140px}
+.u-section-1 .u-image-14 {margin-left: 192px}
+.u-section-1 .u-image-15 {margin-right: 140px}
+.u-section-1 .u-image-18 {margin-left: 213px}
+.u-section-1 .u-image-19 {margin-right: 140px}
+.u-section-1 .u-image-21 {margin-left: 211px}
+.u-section-1 .u-image-22 {margin-right: 140px}
+.u-section-1 .u-image-23 {margin-right: 140px}
+.u-section-1 .u-image-25 {margin-left: 140px} }
